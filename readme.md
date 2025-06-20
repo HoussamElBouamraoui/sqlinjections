@@ -49,7 +49,7 @@ Ce labo permet d'apprendre :
 
 ### 1. Cloner le projet
 ```bash
-https://github.com/HoussamElBouamraoui/sqlinjections- 
+https://github.com/HoussamElBouamraoui/sqlinjections
 
 ```
 ### 2. Importer la base de données
