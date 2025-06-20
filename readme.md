@@ -49,7 +49,7 @@ Ce labo permet d'apprendre :
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/votre-nom-de-utilisateur/mon-site-sql.git 
+https://github.com/HoussamElBouamraoui/sqlinjections- 
 
 ```
 ### 2. Importer la base de données
